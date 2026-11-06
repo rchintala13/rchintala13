@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="322" viewBox="0 0 960 322" role="img" aria-label="The Rohit Hari Chintala, Ph.D. Chronicle: National Lab Scientist Ships ML Platform Behind Federal Tax Tool">
+<title>The Rohit Hari Chintala, Ph.D. Chronicle: National Lab Scientist Ships ML Platform Behind Federal Tax Tool</title>
+<style>
+/* Elements start hidden and animate in, so reduced motion must jump to the end state. */
+text { font-family: Georgia, 'Times New Roman', Times, serif; }
+.rule { stroke-dasharray: 960; stroke-dashoffset: 960; animation: draw 1.2s ease-out forwards; }
+.hl { opacity: 0; animation: fade .9s ease-out .7s forwards; }
+@keyframes draw { to { stroke-dashoffset: 0; } }
+@keyframes fade { to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; opacity: 1 !important; stroke-dashoffset: 0 !important; transform: none !important; }
+}
+</style>
+
+<rect width="960" height="322" fill="#191817"/>
+<line class="rule" x1="40" y1="30" x2="920" y2="30" stroke="#ece6da" stroke-width="1"/>
+<text x="40" y="50" font-size="12" letter-spacing="2" fill="#a39d91">VOL. 8</text>
+<text x="480" y="50" text-anchor="middle" font-size="12" letter-spacing="2" fill="#a39d91">COLORADO</text>
+<text x="920" y="50" text-anchor="end" font-size="12" letter-spacing="2" fill="#a39d91">EST. 2018 · MMXVIII</text>
+<line class="rule" x1="40" y1="62" x2="920" y2="62" stroke="#ece6da" stroke-width="1"/>
+<text x="480" y="111.16" text-anchor="middle" font-size="38" font-weight="700" fill="#ece6da" letter-spacing="0.5">The Rohit Hari Chintala, Ph.D. Chronicle</text>
+<line class="rule" x1="40" y1="150" x2="920" y2="150" stroke="#ece6da" stroke-width="3"/>
+<line class="rule" x1="40" y1="156" x2="920" y2="156" stroke="#ece6da" stroke-width="1"/>
+<text x="480" y="180" text-anchor="middle" font-size="11" letter-spacing="3" fill="#e07a5f">APPLIED SCIENTIST AND AI/ML ENGINEER</text>
+<text class="hl" x="480" y="224" text-anchor="middle" font-size="28" font-weight="700" font-style="italic" fill="#ece6da">National Lab Scientist Ships ML Platform Behind</text><text class="hl" x="480" y="258" text-anchor="middle" font-size="28" font-weight="700" font-style="italic" fill="#ece6da">Federal Tax Tool</text>
+<text class="hl" x="480" y="296" text-anchor="middle" font-size="17" fill="#a39d91">Applied scientist building production ML systems for energy, buildings, and decision</text>
+</svg>
